@@ -1,0 +1,44 @@
+{
+    "coord": {
+        "lon": 20,
+        "lat": 10
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 300.46,
+        "feels_like": 302.84,
+        "temp_min": 300.46,
+        "temp_max": 300.46,
+        "pressure": 1013,
+        "humidity": 73,
+        "sea_level": 1013,
+        "grnd_level": 968
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.89,
+        "deg": 281,
+        "gust": 3.41
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1691242274,
+    "sys": {
+        "country": "TD",
+        "sunrise": 1691209805,
+        "sunset": 1691254919
+    },
+    "timezone": 3600,
+    "id": 245338,
+    "name": "Am Timan",
+    "cod": 200
+}
